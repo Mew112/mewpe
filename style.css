@@ -77,7 +77,14 @@
 .jasa-wrap{
 margin: 5px;
 }
-
+.jasa-icon a{
+  padding: 20px 30px;
+  color: white;
+  display: inline-block;
+  opacity: 0.7;
+  border-radius: 4px;
+  background-color: #3DDAD7;
+}
 }
 
 @media all and (max-width: 1000px){
